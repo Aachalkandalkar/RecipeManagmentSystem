@@ -59,7 +59,7 @@ This package consist of interfaces. Which defines a set of methods that can be u
 
 ### Model package
 
-Model package Consist of Five Classes and One Enum
+Model package Consist of three classes
 
 1.Comment   
 2.Recipe   

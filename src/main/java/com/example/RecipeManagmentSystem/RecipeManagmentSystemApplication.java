@@ -10,5 +10,6 @@ public class RecipeManagmentSystemApplication {
 
 		SpringApplication.run(RecipeManagmentSystemApplication.class, args);
 	}
-
 }
+
+
